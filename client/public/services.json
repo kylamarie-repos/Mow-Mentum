@@ -1,0 +1,38 @@
+[
+    {
+        "jobname": "Lawn Mowing Service",
+        "description": "Our expert team meticulously mows your lawn, leaving it beautifully groomed and healthy. Using precision equipment, we ensure even cutting for a uniform appearance that enhances the overall aesthetic of your property.",
+        "image": "../images/Lawn-mowing.jpg"
+    },
+    {
+        "jobname": "Hedge Trimming Service",
+        "description": "Transform your hedges into works of art with our professional trimming service. Our skilled technicians carefully shape and sculpt your hedges to perfection, promoting growth and maintaining their natural beauty.",
+        "image": "../images/hedge_trim.jpg"
+    },
+    {
+        "jobname": "Curbside Cleanup",
+        "description": "Say goodbye to clutter and hello to curb appeal! Our curbside cleanup service removes debris, leaves, and other unsightly elements from your property's perimeter, enhancing its visual appeal and leaving a lasting impression on visitors and passersby.",
+        "image": "../images/sidewalk_clean.jpg"
+    },
+    {
+        "jobname": "Dave with Scythe",
+        "description": "Embrace the timeless art of lawn care with Dave and his trusty scythe. With skillful precision, Dave hand-cuts your grass, blending tradition with modern sensibilities. Experience the rustic charm and meticulous attention to detail that only a scythe can provide.",
+        "image": "../images/dave_scythe.jpg"
+    },
+    {
+        "jobname": "Sustainable Lawn Trimming",
+        "description": "Meet our eco-friendly team of woolly landscapers! Utilizing the natural grazing instincts of sheep, we offer a sustainable solution to lawn maintenance. Our gentle grazers nibble away at grass, fertilizing as they go, leaving behind a manicured lawn and reducing the need for mechanical equipment.",
+        "image": "../images/sheep_grazing.jpg"
+    },
+    {
+        "jobname": "Jim",
+        "description": "For the ultimate in precision and detail, look no further than Jim and his trusty scissors. With an artist's eye and steady hand, Jim meticulously shapes and manicures your lawn, creating intricate patterns and designs that elevate your outdoor space to a work of art.",
+        "image": "../images/jim_scissors.jpg"
+    },
+    {
+        "jobname": "Flame Weeding",
+        "description": "Harnessing the power of heat, our flame weeding service offers an innovative solution to weed control. Using \"controlled\" flames, we target unwanted vegetation with precision, eliminating weeds at their roots without the need for harmful chemicals. Experience weed management that's safe, effective, and environmentally friendly. (sometimes)",
+        "code": "We legally have to say we don't recommend this one",
+        "image": "../images/flame_weeding.jpg"
+    }
+]
